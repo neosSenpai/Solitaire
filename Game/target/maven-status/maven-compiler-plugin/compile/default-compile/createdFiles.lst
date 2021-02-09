@@ -4,15 +4,21 @@ com/solitaire/game/Solitaire$ScoreClock.class
 com/solitaire/game/Card$Suit.class
 com/solitaire/game/Card$1.class
 com/solitaire/game/GameSelect$4.class
+com/solitaire/game/Settings$8.class
 com/solitaire/game/FinalStack.class
 com/solitaire/game/Menu$2.class
+com/solitaire/game/Settings$3.class
+com/solitaire/game/Settings$4.class
 com/solitaire/game/Menu$1.class
 com/solitaire/game/GameSelect$2.class
 com/solitaire/game/Solitaire$ShowRulesListener.class
+com/solitaire/game/Settings$6.class
 com/solitaire/game/Settings.class
 com/solitaire/game/Menu$4.class
+com/solitaire/game/Settings$7.class
 com/solitaire/game/Menu$3.class
 com/solitaire/game/GameSelect$5.class
+com/solitaire/game/Settings$2.class
 com/solitaire/game/Solitaire$ToggleTimerListener.class
 com/solitaire/game/Solitaire$CardMovementManager.class
 com/solitaire/game/Solitaire.class
@@ -24,4 +30,5 @@ com/solitaire/game/GameSelect$1.class
 com/solitaire/game/Solitaire$1.class
 com/solitaire/game/CardStack.class
 com/solitaire/game/Card.class
+com/solitaire/game/Settings$5.class
 com/solitaire/game/Menu.class
