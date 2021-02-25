@@ -768,7 +768,7 @@ public class Solitaire
 		Container contentPane;
 
 		frame.setSize(TABLE_WIDTH, TABLE_HEIGHT);
-
+                frame.setLocationRelativeTo(null);
 		table.setLayout(null);
 		table.setBackground(new Color(0, 180, 0));
 
