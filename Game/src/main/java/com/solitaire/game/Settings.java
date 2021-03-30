@@ -80,14 +80,14 @@ public class Settings extends javax.swing.JFrame {
         jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jLabel2.setOpaque(true);
         jLabel2.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jLabel2MouseClicked(evt);
-            }
             public void mouseEntered(java.awt.event.MouseEvent evt) {
                 jLabel2MouseEntered(evt);
             }
             public void mouseExited(java.awt.event.MouseEvent evt) {
                 jLabel2MouseExited(evt);
+            }
+            public void mousePressed(java.awt.event.MouseEvent evt) {
+                jLabel2MousePressed(evt);
             }
         });
 
@@ -464,13 +464,6 @@ public class Settings extends javax.swing.JFrame {
         jLabel6.setForeground(Color.white);
     }//GEN-LAST:event_jLabel6MouseExited
 
-    private void jLabel2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel2MouseClicked
-       jLayeredPane1.removeAll();
-       jLayeredPane1.add(eaglewing);
-       jLayeredPane1.repaint();
-       jLayeredPane1.revalidate();
-    }//GEN-LAST:event_jLabel2MouseClicked
-
     private void jLabel3MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel3MouseClicked
        jLayeredPane1.removeAll();
        jLayeredPane1.add(easthaven);
@@ -506,6 +499,13 @@ public class Settings extends javax.swing.JFrame {
     private void jRadioButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRadioButton3ActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_jRadioButton3ActionPerformed
+
+    private void jLabel2MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel2MousePressed
+       jLayeredPane1.removeAll();
+       jLayeredPane1.add(eaglewing);
+       jLayeredPane1.repaint();
+       jLayeredPane1.revalidate();
+    }//GEN-LAST:event_jLabel2MousePressed
 
     /**
      * @param args the command line arguments

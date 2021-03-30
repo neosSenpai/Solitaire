@@ -266,7 +266,7 @@ public class GameSelect extends javax.swing.JFrame {
 
     private void jLabel1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel1MouseClicked
         this.dispose();
-        Solitaire.main(args);
+        GUI.main(args);
     }//GEN-LAST:event_jLabel1MouseClicked
 
     /**
