@@ -179,6 +179,8 @@ public class Table extends JLayeredPane{
                     returnToOrigin(compOfOrigin, selectedCard);
                 } else if (comp instanceof Trunk) {
                     returnToOrigin(compOfOrigin, selectedCard);
+                } else{
+                    returnToOrigin(compOfOrigin, selectedCard);
                 }
             } catch (Exception error) {
                 return;
