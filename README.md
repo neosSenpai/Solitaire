@@ -5,6 +5,6 @@ This project is a version of a Solitaire game named Eagle Wing. This project is 
 
 ![Game](/images/2.PNG)
 
-![Menu](/images/1.PNG)
-
 ![Escape-Menu](/images/5.PNG)
+
+![Menu](/images/1.PNG)
