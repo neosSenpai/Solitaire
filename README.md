@@ -1,8 +1,5 @@
 <!-- ABOUT THE PROJECT -->
 ## Solitaire
+This project is a version of a Solitaire game named Eagle Wing. This project is a fully java built solution that features moveable cards.
 
-### Team Resources
-
-* [Google Drive](https://drive.google.com/drive/folders/1ArDYT3v12lpqvc-zBx-yUpk1Vk0BT8Ar?usp=sharing)
-* [Trello Board](https://trello.com/b/7aPLruv4/project-backlog-bug-tracker)
-
+![Image](/images/1.png)
